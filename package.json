@@ -1,0 +1,21 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "newstar": "nodemon server.js",
+    "load": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starbjornx/official_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starbjornx/official_portfolio/issues"
+  },
+  "homepage": "https://github.com/starbjornx/official_portfolio#readme"
+}
